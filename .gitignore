@@ -1,0 +1,27 @@
+# Compiled files
+*.class
+*.pyc
+*.so
+*.dll
+
+# IDE-specific files
+.vscode/
+*.suo
+*.user
+*.sln
+*.userprefs
+
+# Log files
+*.log
+
+# Test results
+**/test-results/
+
+# Build artifacts
+**/build/
+
+# Temporary files
+*~
+
+# Database files
+game.db
