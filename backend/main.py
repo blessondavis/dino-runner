@@ -59,7 +59,7 @@ async def root():
     return {"message": "Welcome to the Game API"}
 
 # Security
-SECRET_KEY = "your-secret-key"
+SECRET_KEY = "your-secret-key-paste"
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
